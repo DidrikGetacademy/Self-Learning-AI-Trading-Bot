@@ -1,0 +1,1 @@
+#Fil som henter og forbereder data som AI-modellen skal bruke til analyse og beslutninger.

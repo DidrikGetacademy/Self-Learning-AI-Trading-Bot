@@ -1,0 +1,1 @@
+#For konfigurasjonsdetaljer som API-nøkler og andre parametere som du ikke vil ha direkte i koden.

@@ -1,0 +1,1 @@
+#En hjelpetil fil for felles funksjoner, som databehandling, logging, eller feilhåndtering.
